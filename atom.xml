@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://wuwamao.com</id>
-    <title></title>
-    <updated>2020-12-30T06:28:24.639Z</updated>
+    <title>屋瓦猫</title>
+    <updated>2020-12-30T06:33:56.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://wuwamao.com"/>
     <link rel="self" href="http://wuwamao.com/atom.xml"/>
+    <subtitle>屋瓦猫</subtitle>
     <logo>http://wuwamao.com/images/avatar.png</logo>
     <icon>http://wuwamao.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, </rights>
+    <rights>All rights reserved 2020, 屋瓦猫</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>http://wuwamao.com/post/ce-shi/</id>
